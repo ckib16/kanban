@@ -50,7 +50,7 @@ group :development do
 end
 
 group :production do 
-  gem 'rails_12factor'
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -61,3 +61,5 @@ gem 'devise'
 gem "better_errors"
 gem "binding_of_caller"
 gem 'font-awesome-rails'
+
+ruby "2.3.3"
