@@ -54,3 +54,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'materialize-sass'
 gem 'simple_form'
 gem 'devise'
+gem "better_errors"
+gem "binding_of_caller"
+gem 'font-awesome-rails'
